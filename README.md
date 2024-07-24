@@ -4,5 +4,5 @@
  - *IFC - Campus Araquari*
  
  ## citaçao
- > “O ódio é o lugar para onde vai o homem que não consegue suportar a tristeza...”
+ > “O ódio é o lugar para onde vai o homem que não consegue suportar a tristeza...” 
  
